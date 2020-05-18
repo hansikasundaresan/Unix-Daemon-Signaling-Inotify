@@ -1,0 +1,13 @@
+Currently: log file made, Daemon started
+Starting program in verbose mode, created log file
+creating ./versions subfolder
+In processControl() to fork for Daemon
+Parent exited.
+Kid created from fork, only this process running
+Moving to process control to call fork function
+pid file created and closed with pidID of child process
+Re-reading contents of Conf file.
+Configurations re-read and updated
+cs3377dirmond.log has been modified
+Daemon interrupted with command. Killing Daemon
+Removing pid file, process killed
